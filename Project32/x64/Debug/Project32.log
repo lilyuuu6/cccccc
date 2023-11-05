@@ -1,0 +1,3 @@
+﻿  源.c
+C:\code\Project32\源.c(1,1): warning C4828: 文件包含在偏移 0x11d 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Project32.vcxproj -> C:\code\Project32\x64\Debug\Project32.exe
